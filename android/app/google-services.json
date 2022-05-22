@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "245874888326",
+    "firebase_url": "https://oc-dasboard-alerts-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "oc-dasboard-alerts",
+    "storage_bucket": "oc-dasboard-alerts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245874888326:android:e1ba949f7c99c2e8f94b07",
+        "android_client_info": {
+          "package_name": "com.example.maahey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245874888326-bk0c88s0l7rk3cbr6781rmcenfravs1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr84QILALcYZgl2mCIB3seUmljJimeOZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245874888326-bk0c88s0l7rk3cbr6781rmcenfravs1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
